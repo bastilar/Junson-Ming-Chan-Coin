@@ -1,0 +1,9 @@
+Building JunsonMingChanCoin
+
+See doc/readme-qt.rst for instructions on building JunsonMingChanCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of JunsonMingChanCoin.
+
+See doc/build-*.txt for instructions on building JunsonMingChanCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of JunsonMingChanCoin.
