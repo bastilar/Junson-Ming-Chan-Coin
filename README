@@ -1,2 +1,22 @@
 README.md
 
+
+
+Welcome to the JMC github .
+Blockexplorer http://www.jmcblock.com 
+
+
+Windows .exe is in the release folder    !!!
+Linux Qt Gui also  (  you need to compile deamon before )
+
+A good tutorial how to Compile this Wallet as deamon on Linux )
+https://dev.cryptolife.net/compiling-the-daemon-for-your-altcoin-in-ubuntu-linux/
+
+
+
+
+
+Specs of coin .
+Algorythm X 11
+PoW + PoS Hybrid till Block 50.000  after pure Proof of Stake
+
